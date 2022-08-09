@@ -1,1 +1,3 @@
 # sql-otaku
+
+initiation sql
